@@ -1,10 +1,10 @@
  ***************************************************************************
 ****************************************************************************
 
-_______________--------------------------------------------------___________________
-                                 Tool Made By =>  Vikas Chaudhary
-                                 Publisher => www.gkaim.com
-______________------------------------------------------------_____________________
+_______________--------------------------------------------------_________________
+                          Tool Made By =>  Vikas Chaudhary
+                            Publisher => www.gkaim.com
+______________------------------------------------------------__________________
 
 How to Use :-
 1-git clone https://github.com/gkaim100/New_Vega.git
@@ -14,6 +14,7 @@ How to Use :-
 5- Wait.... and if ask for Number selection then Select Java-8-openjdk-amd64 => ( 2 )
 6- All are done  => ENJOY 
 7- For more Information visit  > www.gkaim.com
+Note=> Run only New_Vega.sh otherwise toll may not work 
 
 
 *************************************************************************************
