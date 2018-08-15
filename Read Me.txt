@@ -7,7 +7,7 @@ _______________--------------------------------------------------_______________
 ______________------------------------------------------------__________________
 
 How to Use :-
-1-git clone https://github.com/gkaim100/New_Vega.git
+1-git clone https://github.com/softaim/New_Vega.git
 2- cd /New_Vega
 3- chmod +x New_Vega.sh
 4-  Type password => Vikas
